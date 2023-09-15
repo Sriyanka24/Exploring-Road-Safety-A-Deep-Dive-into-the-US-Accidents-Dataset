@@ -1,4 +1,5 @@
 Analysis on US accidents dataset for a period of 6 years (2016-2021).
+
 (Detailed Vizualizations and Data Story on Tableau: https://public.tableau.com/views/AccidentsinUSfrom2016to2021/Story-USaccidents?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 My interest on data analysis had pushed me to explore on open source datasets and I've performed a case study on this huge dataset from Kaggle called "Us accidents dataset" using python in Google colab. This dataset has almost 3 million rows which made the process of cleaning, validating and analyzing more interesting.
