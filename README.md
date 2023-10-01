@@ -2,8 +2,7 @@ Analysis on US accidents dataset for a period of 6 years (2016-2021).
 
 (Detailed Interactive Dashboards and Data Story on Tableau: https://public.tableau.com/app/profile/sai.sriyanka/viz/AccidentsinUSfrom2016to2021/Story-USaccidents)
 
-My interest on data analysis had pushed me to explore on open source datasets and I've performed a case study on this huge dataset from Kaggle called "Us accidents dataset" using python in Google colab. This dataset has almost 3 million rows which made the process of cleaning, validating and analyzing more interesting.
-
+My interest in data analysis pushed me to explore open source datasets and I've performed a case study on this huge dataset from Kaggle called "Us accidents dataset" using Python in Google Colab. This dataset has almost 3 million rows which made the process of cleaning, validating, and analyzing more interesting.
 
 Insights:
 - Less than 4.5% of cities or a total of 494 cities had more than 1000 accidents in 6 years.
